@@ -1,11 +1,11 @@
-# You Don't Know JS
-# Preface
+# Você Não Sabe JS (You Don't Know JS)
+# Prefácio
 
-I'm sure you noticed, but "JS" in the book series title is not an abbreviation for words used to curse about JavaScript, though cursing at the language's quirks is something we can probably all identify with!
+Estou certo que você notou, mas "JS" no título dessa série de livros não é uma abreviação usada para falar mal de JavaScript, apesar de que, falar mal de algumas peculiaridades da linguagem é algo que probavelmente todos nós nos identificamos!
 
-From the earliest days of the web, JavaScript has been a foundational technology that drives interactive experience around the content we consume. While flickering mouse trails and annoying pop-up prompts may be where JavaScript started, nearly 2 decades later, the technology and capability of JavaScript has grown many orders of magnitude, and few doubt its importance at the heart of the world's most widely available software platform: the web.
+Desde os primeiros dias da web, JavaScript tem sido uma tecnologia base que guia as experiências interativas sobre o conteúdo que consumimos. Embora rastros de mause piscando e pop-ups inrritantes podem ter sido onde o JavaScript comecou, aproximadamente 2 decadas depois, a tecnologia e potencialidade do JavaScript cresceu muitas ordens de magnitude, e poucos duvidam de sua importância no coração da mas amplamente disponível plataforma de software do mundo: a web. 
 
-But as a language, it has perpetually been a target for a great deal of criticism, owing partly to its heritage but even more to its design philosophy. Even the name evokes, as Brendan Eich once put it, "dumb kid brother" status next to its more mature older brother "Java". But the name is merely an accident of politics and marketing. The two languages are vastly different in many important ways. "JavaScript" is as related to "Java" as "Carnival" is to "Car".
+Mas como lingaugem, ela tem sido eternamente alvo de uma grande dose de crítica, em parte devido a seu histórico ruim porém ainda mais devido sua filosofia de *desing*. Mesmo seu nome invoca, como Brendan Eich colocou uma vez, a posição de "irmão burro" frente seu irmão mais velho "Java". Porém o nome é um mero acidente político e de marketing. As duas linguagens são imensamente diferente em muitos aspectos importantes. "JavaScript" está relacionado com "Java" assim como "Carona" está relacionado com "Cara".
 
 Because JavaScript borrows concepts and syntax idioms from several languages, including proud C-style procedural roots as well as subtle, less obvious Scheme/Lisp-style functional roots, it is exceedingly approachable to a broad audience of developers, even those with just little to no programming experience. The "Hello World" of JavaScript is so simple that the language is inviting and easy to get comfortable with in early exposure.
 
